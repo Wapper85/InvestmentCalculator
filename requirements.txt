@@ -158,3 +158,8 @@ widgetsnbextension==3.6.1
 wrapt==1.14.1
 yfinance==0.1.72
 zipp==3.8.0
+matplotlib==3.5.2
+streamlit==1.10.0
+pandas==1.4.2
+Pillow==9.1.1
+numpy==1.22.4
